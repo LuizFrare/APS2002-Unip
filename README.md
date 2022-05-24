@@ -9,3 +9,8 @@ Aplicação web desenvolvida para a Atividade Prática Supervisionada do primeir
 - CSS3
 - JavaScript
 
+### Equipe
+G4557J-0 – LARISSA RODRIGUES DO NASCIMENTO
+T37220-8 – LUIZ EDUARDO FRARE
+G57498-2 – EVANDIR JUNQUEIRA JUNIOR
+N9598D-2 – EDUARDO GANDOLFI TROVATTI
